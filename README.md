@@ -64,11 +64,13 @@ Analyzed synthetic financial market pricing data to identify pricing exceptions,
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Portfolio Highlights
 
-![Fitsum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fitsa251&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsa251&layout=compact&hide_border=true)
+| Project | Focus Area | Tools Used |
+|---|---|---|
+| 🏦 Banking Customer Churn & Profitability Analytics | Churn, profitability, customer retention, machine learning | Python, SQL, Excel, Scikit-learn |
+| 💳 FinTech Customer Transaction & Risk Analytics | Transactions, failed payments, fee revenue, risk monitoring | Python, SQL, Excel |
+| 📈 Financial Market Pricing Analysis | Pricing exceptions, vendor review, market movements | Python, SQL, Excel |
 
 ---
 
