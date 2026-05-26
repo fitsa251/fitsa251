@@ -43,6 +43,7 @@ I am especially interested in roles such as:
 Analyzed synthetic banking customer data to understand churn risk, profitability, product usage, digital engagement, support activity, and retention opportunities.
 
 🔗 [View Project](https://github.com/fitsa251/banking-customer-churn-profitability-analytics)
+🌐 [Live Dashboard](https://banking-customer-churn-profitability-analytics-a7hnw6cdqcguzny.streamlit.app/)
 
 ---
 
